@@ -1,0 +1,6 @@
+D:\Project\ZestyBiteSolution\ZestyBite.Common\bin\Debug\ZestyBite.Common.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Common\bin\Debug\ZestyBite.Common.pdb
+D:\Project\ZestyBiteSolution\ZestyBite.Common\obj\Debug\ZestyBite.Common.csproj.AssemblyReference.cache
+D:\Project\ZestyBiteSolution\ZestyBite.Common\obj\Debug\ZestyBite.Common.csproj.CoreCompileInputs.cache
+D:\Project\ZestyBiteSolution\ZestyBite.Common\obj\Debug\ZestyBite.Common.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Common\obj\Debug\ZestyBite.Common.pdb

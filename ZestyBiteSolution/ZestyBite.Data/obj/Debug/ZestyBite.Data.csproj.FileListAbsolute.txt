@@ -1,0 +1,14 @@
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\ZestyBite.Data.dll.config
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\ZestyBite.Data.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\ZestyBite.Data.pdb
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\EntityFramework.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\ZestyBite.Common.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\ZestyBite.Common.pdb
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\EntityFramework.xml
+D:\Project\ZestyBiteSolution\ZestyBite.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\ZestyBiteSolution\ZestyBite.Data\obj\Debug\ZestyBite.Data.csproj.AssemblyReference.cache
+D:\Project\ZestyBiteSolution\ZestyBite.Data\obj\Debug\ZestyBite.Data.csproj.CoreCompileInputs.cache
+D:\Project\ZestyBiteSolution\ZestyBite.Data\obj\Debug\ZestyBit.4AC9E6CC.Up2Date
+D:\Project\ZestyBiteSolution\ZestyBite.Data\obj\Debug\ZestyBite.Data.dll
+D:\Project\ZestyBiteSolution\ZestyBite.Data\obj\Debug\ZestyBite.Data.pdb
