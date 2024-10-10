@@ -12520,3 +12520,30 @@ textarea.form-control {
         stroke-dashoffset: -136px;
     }
 }
+
+@media only screen and (max-width: 767px) {
+    .other-choice {
+        opacity: 200;
+        text-align: left;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .form-config {
+        margin: auto;
+        background-color: black;
+        width: 500px;
+        height: 620px;
+        opacity: 80%;
+    }
+
+    .other-choice {
+        opacity: 200;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

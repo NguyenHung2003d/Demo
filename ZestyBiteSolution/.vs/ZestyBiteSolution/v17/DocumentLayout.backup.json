@@ -1,7 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\ZestyBiteSolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Project OJT\\ZestyBiteSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|d:\\project ojt\\zestybitesolution\\zestybitesolution\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|solutionrelative:zestybitesolution\\views\\home\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|d:\\project ojt\\zestybitesolution\\zestybitesolution\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|solutionrelative:zestybitesolution\\content\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|d:\\project ojt\\zestybitesolution\\zestybitesolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|solutionrelative:zestybitesolution\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|d:\\project ojt\\zestybitesolution\\zestybitesolution\\content\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{18B489BD-13E8-4691-B96F-793340B77451}|ZestyBiteSolution\\ZestyBite.WebApp.csproj|solutionrelative:zestybitesolution\\content\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Content\\css\\style.css",
+              "RelativeDocumentMoniker": "ZestyBiteSolution\\Content\\css\\style.css",
+              "ToolTip": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Content\\css\\style.css",
+              "RelativeToolTip": "ZestyBiteSolution\\Content\\css\\style.css",
+              "ViewState": "AgIAAOswAAAAAAAAAAAuwAQxAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-10T08:04:05.936Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -42,6 +73,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.js",
+              "DocumentMoniker": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Content\\js\\main.js",
+              "RelativeDocumentMoniker": "ZestyBiteSolution\\Content\\js\\main.js",
+              "ToolTip": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Content\\js\\main.js",
+              "RelativeToolTip": "ZestyBiteSolution\\Content\\js\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-10T08:30:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ZestyBiteSolution\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ZestyBiteSolution\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T08:27:32.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Views\\Home\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "ZestyBiteSolution\\Views\\Home\\SignUp.cshtml",
+              "ToolTip": "D:\\Project OJT\\ZestyBiteSolution\\ZestyBiteSolution\\Views\\Home\\SignUp.cshtml",
+              "RelativeToolTip": "ZestyBiteSolution\\Views\\Home\\SignUp.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwFUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T07:27:07.144Z",
+              "EditorCaption": ""
             }
           ]
         },

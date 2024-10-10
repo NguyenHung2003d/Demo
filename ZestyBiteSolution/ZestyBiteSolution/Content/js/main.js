@@ -46,6 +46,8 @@
     };
     loader();
 
+    
+
     // Owl Carousel for Home Slider
     var carousel = function () {
         if ($.fn.owlCarousel) { // Ensure OwlCarousel is available

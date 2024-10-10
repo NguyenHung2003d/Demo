@@ -29,6 +29,9 @@ namespace FastFood.Controllers {
         public ActionResult BlogContent() {
             return View();
         }
+        public ActionResult SignUp() {
+            return View();
+        }
     }
 
 }
